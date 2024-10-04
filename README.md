@@ -21,42 +21,39 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## Framework
 - [Awesome-Knowledge-Fuse](#awesome-model-merging-methods-theories-applications)
-  * [1. Connectivity and Alignment](#connectivity-and-alignment)
-      - [1.1 Model Connectivity]
-      - [1.2 Weight Alignment](#weight-alignment)
-  * [Parameter Merging](#parameter-merging)
-    + [Merging Methods](#merging)
+  * [1. Connectivity and Alignment](#1.-connectivity-and-alignment)
+    + [1.1 Model Connectivity](#1.1-model-connectivity)
+    + [1.2 Weight Alignment](#1.2-weight-alignment)
+  * [2. Parameter Merging](#2.-parameter-merging)
+    + [2.1 Merging Methods](#2.1-merging-methods)
       - [Gradient based](#gradient-based)
       - [Task Vector based](#task-vector-based)
-    + [During or After Training](#during-or-after-training)
+    + [2.2 During or After Training](#2.2-during-or-after-training)
       - [During Training](#during-training)
       - [After Training](#after-training)
-    + [For LLMs and MLLMs](#for-llms-and-mllms)
+    + [2.3 For LLMs and MLLMs](#2.3-for-llms-and-mllms)
       - [For LLMs](#for-llms)
       - [For MLLMs](#for-mllms)
-  * [Model Ensemble](#model-ensemble)
-    + [ensemble method](#ensemble-method)
+  * [3. Model Ensemble](#3.-model-ensemble)
+    + [3.1 Ensemble Methods](#3.1-ensemble-methods)
       - [Weighted Averaging](#weighted-averaging)
       - [Routing](#routing)
       - [Voting](#Voting)
-    + [ensemble object](#ensemble-object)
+    + [3.2 Ensemble Object](#3.2-ensemble-object)
       - [Entire Model](#entire-model)
       - [Adapter](#Adapter)
-  * [Decouple and Reuse](#decouple-and-reuse)
-    <!-- + [ensemble method](#ensemble-method) -->
-      - [Reprogramming](#reprogramming)
-      - [Mask](#mask)
-  * [Distillation](#distillation)
-    + [Distillation](#distillation)
-      - [Transformer](#transformer)
-      - [CNN](#cnn)
-      - [GNN](#gnn)
-  * [Model Reassemble](#model-reassemble)
-    + [Model Reassemble](#model-reassemble)
-      - [Model Stitch](#model-stitch)
-      - [Model Evolution](#model-evolution)
-  * [Others](#others)
-    + [External Data Retrieval](#external-data-retrieval)
+  * [4. Decouple and Reuse](#decouple-and-reuse)
+    + [4.1 Reprogramming](#reprogramming)
+    + [4.1 Mask](#mask)
+  * [5. Distillation](#distillation)
+    + [5.1 Transformer](#transformer)
+    + [5.2 CNN](#cnn)
+    + [5.3 GNN](#gnn)
+  * [6. Model Reassemble](#model-reassemble)
+    + [6.1 Model Stitch](#model-stitch)
+    + [6.1 Model Evolution](#model-evolution)
+  * [7. Others](#others)
+    + [7.1 External Data Retrieval](#external-data-retrieval)
 
 ----------
 
@@ -103,8 +100,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
 
 
-## Parameter Merging
-### Merging Methods
+## 2. Parameter Merging
+### 2.1 Merging Methods
 #### Gradient based
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
@@ -132,7 +129,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Merging models with fisher-weighted averaging](https://openreview.net/pdf?id=LSKlp_aceOC) | 2022  | NeurIPS |
 
 
-### During or After Training
+### 2.2 During or After Training
 #### During Training
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
@@ -151,36 +148,36 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 #### After Training
 
-### For LLMs and MLLMs
+### 2.3 For LLMs and MLLMs
 #### For LLMs
 #### For MLLMs
 
-## Model Ensemble
+## 3. Model Ensemble
 
-### ensemble method
+### 3.1 Ensemble Methods
 #### Weighted Averaging
 #### Routing
 #### Voting
 
-### ensemble object
+### 3.2 Ensemble Object
 #### Entire Model
 #### Adapter
 
-## Decouple and Reuse
-#### Reprogramming
-#### Mask
+## 4. Decouple and Reuse
+#### 4.1 Reprogramming
+#### 4.2 Mask
 
-## Distillation
-#### Transformer
-#### CNN
-#### GNN
+## 5. Distillation
+#### 5.1 Transformer
+#### 5.2 CNN
+#### 5.3 GNN
 
-## Model Reassemble
-#### Model Stitch
-#### Model Evolution
+## 6. Model Reassemble
+#### 6.1 Model Stitch
+#### 6.2 Model Evolution
 
-## Others
-### External Data Retrieval
+## 7. Others
+### 7.1 External Data Retrieval
 
 
 ----------
