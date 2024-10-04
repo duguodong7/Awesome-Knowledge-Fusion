@@ -4,7 +4,8 @@
 
 
 > [!TIP]
-<font color="red">!</font>
+<font color="red">If you have any questions about the library, please feel free to contact us.
+Email: duguodong7@gmail.com</font>
 
 ---
 
