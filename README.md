@@ -22,11 +22,10 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ## Framework
 - [Awesome-Knowledge-Fuse](#awesome-model-merging-methods-theories-applications)
   * [Connectivity and Alignment](#connectivity-and-alignment)
-    + [Merging Method](#merging-method)
-      - [Model Connectivity](#connectivity)
+      - [Model Connectivity](#model-connectivity)
       - [Weight Alignment](#weight-alignment)
   * [Parameter Merging](#parameter-merging)
-    + [Parameter Merging](#parameter-merging)
+    + [Merging Methods](#merging)
       - [Gradient based](#gradient-based)
       - [Task Vector based](#task-vector-based)
     + [During or After Training](#during-or-after-training)
@@ -62,14 +61,6 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ----------
 
 ## Connectivity and Alignment
-<!-- 
-<center>
-<img src="./imgs/methods.png" alt="Model Merging" width="800"/>
-</ center >
--->
-
-<!-- ### Pre-Merging Methods -->
-
 #### Model Connectivity
 | **Paper Title** | **Pub & Date** | **Key Word** |
 | --------------- | :----: | :----: |
