@@ -2,7 +2,6 @@
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
-
 <!-- > [!TIP] -->
 <font color="red">If you have any questions about the library, please feel free to contact us.
 Email: duguodong7@gmail.com</font>
@@ -55,7 +54,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
     + [6.2 Model Evolution](#62-model-evolution)
   * [7. Others](#7-others)
     + [7.1 External Data Retrieval](#71-external-data-retrieval)
-
+    + [7.2 Other Surveys](#72-other-survyes)
 ----------
 
 ## 1. Connectivity and Alignment
@@ -165,21 +164,21 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### Adapter
 
 ## 4. Decouple and Reuse
-#### 4.1 Reprogramming
-#### 4.2 Mask
+### 4.1 Reprogramming
+### 4.2 Mask
 
 ## 5. Distillation
-#### 5.1 Transformer
-#### 5.2 CNN
-#### 5.3 GNN
+### 5.1 Transformer
+### 5.2 CNN
+### 5.3 GNN
 
 ## 6. Model Reassemble
-#### 6.1 Model Stitch
-#### 6.2 Model Evolution
+### 6.1 Model Stitch
+### 6.2 Model Evolution
 
 ## 7. Others
 ### 7.1 External Data Retrieval
-
+### 7.2 Other Surveys
 
 ----------
 
