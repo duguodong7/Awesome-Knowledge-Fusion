@@ -104,7 +104,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 
 ## Parameter Merging
-
+### Merging Methods
 #### Gradient based
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
@@ -132,7 +132,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Merging models with fisher-weighted averaging](https://openreview.net/pdf?id=LSKlp_aceOC) | 2022  | NeurIPS |
 
 
-
+### During or After Training
 #### During Training
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
