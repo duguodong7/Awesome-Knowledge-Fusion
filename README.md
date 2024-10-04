@@ -21,9 +21,9 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## Framework
 - [Awesome-Knowledge-Fuse](#awesome-model-merging-methods-theories-applications)
-  * [Connectivity and Alignment](#connectivity-and-alignment)
-      - [Model Connectivity](#model-connectivity)
-      - [Weight Alignment](#weight-alignment)
+  * [1. Connectivity and Alignment](#connectivity-and-alignment)
+      - [1.1 Model Connectivity]
+      - [1.2 Weight Alignment](#weight-alignment)
   * [Parameter Merging](#parameter-merging)
     + [Merging Methods](#merging)
       - [Gradient based](#gradient-based)
@@ -60,8 +60,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ----------
 
-## Connectivity and Alignment
-#### Model Connectivity
+## 1. Connectivity and Alignment
+#### 1.1 Model Connectivity
 | **Paper Title** | **Pub & Date** | **Key Word** |
 | --------------- | :----: | :----: |
 | [Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic](https://arxiv.org/pdf/2407.07089) | 2024 |  Arxiv |
@@ -70,7 +70,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
 
 
-#### Weight Alignment
+#### 1.2 Weight Alignment
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | 2024 | ICML  |
