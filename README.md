@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
 
-> [!TIP]
+<!-- > [!TIP] -->
 <font color="red">If you have any questions about the library, please feel free to contact us.
 Email: duguodong7@gmail.com</font>
 
