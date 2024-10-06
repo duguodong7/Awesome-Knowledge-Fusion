@@ -59,7 +59,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 1. Connectivity and Alignment
 #### 1.1 Model Connectivity
-| **Paper Title** | **Pub & Date** | **Key Word** |
+| **Paper Title** | **Pub & Date** | **Key Word** | Code |
 | --------------- | :----: | :----: |
 | [Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic](https://arxiv.org/pdf/2407.07089) | 2024 |  Arxiv |
 | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/pdf?id=VLFhbOCz5D) | 2024 |ICLR  |
