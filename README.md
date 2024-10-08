@@ -121,6 +121,14 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ### 3.1 Ensemble Methods
 #### Weighted Averaging
 #### Routing
+
+| **Paper Title**                                              |                          **Code**                          | **Pub & Date**  |
+| ------------------------------------------------------------ | :--------------------------------------------------------: | :-------------: |
+| [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066) | [DeepSeekMoE](https://github.com/deepseek-ai/DeepSeek-MoE) | **ArXiv** 24.01 |
+| [Multiple Expert Brainstorming for Domain Adaptive Person Re-identification](https://arxiv.org/pdf/2007.01546) |     [MEB-Net](https://github.com/YunpengZhai/MEB-Net)      |  **ECCV** 2020  |
+| [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) |                                                            |  **TMLR** 2024  |
+| [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) |                                                            | **ArXiv** 23.12 |
+
 #### Voting
 
 ### 3.2 Ensemble Object
@@ -134,10 +142,15 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Diverse Ensemble Evolution: Curriculum Data-Model Marriage](https://proceedings.neurips.cc/paper/2018/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html) |  | **NeurIPS** 2018 |
 #### Adapter
 
-| **Paper Title**                                              |                           **Code**                           | **Pub & Date** |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :------------: |
-| [Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories ](https://arxiv.org/abs/2306.05406) | [code](https://github.com/xu1868/Mixture-of-Domain-Adapters) |  **ACL** 2023  |
-| [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://arxiv.org/abs/2402.00433) |  [WEMOE](https://github.com/tanganke/weight-ensembling_moe)  | **ICML** 2024  |
+| **Paper Title**                                              |                           **Code**                           |  **Pub & Date**  |
+| ------------------------------------------------------------ | :----------------------------------------------------------: | :--------------: |
+| [Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts](https://arxiv.org/pdf/2406.12034) |                                                              | **ArXiv** 24.06  |
+| [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |                                                              | **ArXiv** 24.06  |
+| [Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging](https://arxiv.org/pdf/2406.15479) | [Twin-Merging](https://github.com/LZY-the-boys/Twin-Merging) | **NeurIPS** 2024 |
+| [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://arxiv.org/abs/2402.00433) |  [WEMOE](https://github.com/tanganke/weight-ensembling_moe)  |  **ICML** 2024   |
+| [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859) |                                                              |  **ICML** 2024   |
+| [Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy](https://arxiv.org/pdf/2310.01334) |                                                              |  **ICLR** 2024   |
+| [Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories](https://arxiv.org/abs/2306.05406) | [code](https://github.com/xu1868/Mixture-of-Domain-Adapters) |   **ACL** 2023   |
 
 ## 4. Decouple and Reuse
 ### 4.1 Reprogramming
@@ -163,7 +176,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ## 5. Distillation
 ### 5.1 Transformer
 
-| **Paper Title**                                              | **Code** | **Pub & Date** |
+| **Paper Title**                                              | **Code** | **Pub  & Date** |
 | ------------------------------------------------------------ | :----: | :------------: |
 | [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | [FuseChat](https://github.com/18907305772/FuseAI) | **ArXiv** 24.02 |
 | [Sam-clip: Merging vision foundation models towards semantic and spatial understanding](https://openaccess.thecvf.com/content/CVPR2024W/eLVM/html/Wang_SAM-CLIP_Merging_Vision_Foundation_Models_Towards_Semantic_and_Spatial_Understanding_CVPRW_2024_paper.html) |  | **CVPR** 2024 |
@@ -208,10 +221,10 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ### 6.1 Model Evolution
 | **Paper Title**                                              | **Code** | **Pub & Date** |
 | ------------------------------------------------------------ | :----: | :------------: |
-| [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) |  | **ArXiv** 24.07 |
+| [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | - | **ArXiv** 24.07 |
 | [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187) | [EvoLLM](https://github.com/SakanaAI/evolutionary-model-merge) | **ArXiv** 24.03 |
 | [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/abs/2405.07813) | [Model_Evolver](https://github.com/duguodong7/model-evolution) | **ACL** 2024 |
-| [Population-based evolutionary gaming for unsupervised person re-identification](https://arxiv.org/abs/2306.05236) |  | **IJCV** 2023 |
+| [Population-based evolutionary gaming for unsupervised person re-identification](https://arxiv.org/abs/2306.05236) | - | **IJCV** 2023 |
 ## 7. Others
 ### 7.1 External Data Retrieval
 
