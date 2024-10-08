@@ -60,40 +60,40 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### 1.1 Model Connectivity
 | **Paper Title** | **Code** | **Pub & Date** |
 | --------------- | :----: | :----: |
-| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) |  | **ArXiv** 2024 |
-| [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) |  | **ICLR** 2024 |
-| [Proving linear mode connectivity of neural networks via optimal transport](https://arxiv.org/pdf/2310.19103) |  | **AISTATS** 2024 |
-| [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/pdf/2209.04836) | [git re-basin](https://github.com/samuela/git-re-basin) | **ICLR** 2023 |
-| [Re-basin via implicit Sinkhorn differentiation](https://openaccess.thecvf.com/content/CVPR2023/papers/Pena_Re-Basin_via_Implicit_Sinkhorn_Differentiation_CVPR_2023_paper.pdf) |  | **CVPR** 2023 |
-| [Plateau in Monotonic Linear Interpolation--A "Biased" View of Loss Landscape for Deep Networks](https://arxiv.org/pdf/2210.01019)|  | **ICLR** 2023 |
-| [Linear Mode Connectivity of Deep Neural Networks via Permutation Invariance and Renormalization](https://openreview.net/pdf?id=gU5sJ6ZggcX)|  | **ICLR** 2023 |
-| [Going beyond linear mode connectivity: The layerwise linear feature connectivity](https://papers.nips.cc/paper_files/paper/2023/file/bf3ee5a5422b0e2a88b0c9c6ed3b6144-Paper-Conference.pdf) |   |**NeurIPS** 2023 |
-| [The role of permutation invariance in linear mode connectivity of neural networks](https://openreview.net/pdf?id=dNigytemkL) |  | **ICLR** 2022 |
-| [What can linear interpolation of neural network loss landscapes tell us?](https://arxiv.org/pdf/2106.16004) | | **ICML** 2022 |
-| [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) |  | **ICML** 2021 |
-| [Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes](https://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf) |  | **ICML** 2021 |
-| [Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)|  | **ICML** 2021 |
-| [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf) |  | **ICML** 2020 |
-| [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)|   | **NeurIPS** 2018 |
+| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
+| [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
+| [Proving linear mode connectivity of neural networks via optimal transport](https://arxiv.org/pdf/2310.19103) | [OT_LMC](https://github.com/damienferbach/OT_LMC/tree/main) | **AISTATS** 2024 |
+| [Re-basin via implicit Sinkhorn differentiation](https://openaccess.thecvf.com/content/CVPR2023/papers/Pena_Re-Basin_via_Implicit_Sinkhorn_Differentiation_CVPR_2023_paper.pdf) | [Re-Basin]( https://github.com/fagp/sinkhorn-rebasin) | **CVPR** 2023 |
+| [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/pdf/2209.04836) | [Git Re-Basin](https://github.com/samuela/git-re-basin) | **ICLR** 2023 |
+| [Plateau in Monotonic Linear Interpolation--A "Biased" View of Loss Landscape for Deep Networks](https://arxiv.org/pdf/2210.01019)| - | **ICLR** 2023 |
+| [Linear Mode Connectivity of Deep Neural Networks via Permutation Invariance and Renormalization](https://openreview.net/pdf?id=gU5sJ6ZggcX)| - | **ICLR** 2023 |
+| [Going beyond linear mode connectivity: The layerwise linear feature connectivity](https://papers.nips.cc/paper_files/paper/2023/file/bf3ee5a5422b0e2a88b0c9c6ed3b6144-Paper-Conference.pdf) | [LLFC](https://github.com/zzp1012/LLFC) |**NeurIPS** 2023 |
+| [The role of permutation invariance in linear mode connectivity of neural networks](https://openreview.net/pdf?id=dNigytemkL) | [PI](https://github.com/rahimentezari/PermutationInvariance) | **ICLR** 2022 |
+| [What can linear interpolation of neural network loss landscapes tell us?](https://arxiv.org/pdf/2106.16004) | - | **ICML** 2022 |
+| [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) | [LSS]( https://github.com/g-benton/ loss-surface-simplexes) | **ICML** 2021 |
+| [Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes](https://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf) | - | **ICML** 2021 |
+| [Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)| - | **ICML** 2021 |
+| [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf) | - | **ICML** 2020 |
+| [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)| [DNN](https://github.com/timgaripov/dnn-mode-connectivity) | **NeurIPS** 2018 |
 
 
 #### 1.2 Weight Alignment
 | **Paper Title**                                              | **Code** | **Pub & Date** |
 | ------------------------------------------------------------ | :----: | :------------: |
-| [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) |  | **ICML** 2024 |
+| [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | [EDWSA](https://github.com/AvivNavon/deep-align) | **ICML** 2024 |
 | [Harmony in diversity: Merging neural networks with canonical correlation analysis](https://openreview.net/pdf?id=XTr8vwAr2D) | [CCA Merge](https://github.com/shoroi/align-n-merge) | **ICML** 2024 |
-| [Transformer fusion with optimal transport](https://arxiv.org/pdf/2310.05719) |  | **ICLR** 2024 |
-| [ZipIt! Merging Models From Different Tasks Without Training](https://openreview.net/pdf?id=LEYUkvdUhq) |  | **ICLR** 2024 |
-| [Training-Free Pretrained Model Merging](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Training-Free_Pretrained_Model_Merging_CVPR_2024_paper.pdf) |  |**CVPR** 2024  |
-| [Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](https://arxiv.org/pdf/2409.16167)|  | **ArXiv** 24.09 |
-| [C2M3: Cycle-Consistent Multi Model Merging](https://arxiv.org/pdf/2405.17897) |  | **ArXiv** 24.05 |
+| [Transformer fusion with optimal transport](https://arxiv.org/pdf/2310.05719) | [TF](https://github.com/graldij/transformer-fusion) | **ICLR** 2024 |
+| [ZipIt! Merging Models From Different Tasks Without Training](https://openreview.net/pdf?id=LEYUkvdUhq) | [ZipIt](https://github.com/gstoica27/ZipIt) | **ICLR** 2024 |
+| [Training-Free Pretrained Model Merging](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Training-Free_Pretrained_Model_Merging_CVPR_2024_paper.pdf) | [TFPMM](https://github.com/zju-vipa/training_free_model_merging.) |**CVPR** 2024  |
+| [Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](https://arxiv.org/pdf/2409.16167)| - | **ArXiv** 24.09 |
+| [C2M3: Cycle-Consistent Multi Model Merging](https://arxiv.org/pdf/2405.17897) | [CCM](https://github.com/crisostomi/cycle-consistent-model-merging) | **ArXiv** 24.05 |
 | [REPAIR: REnormalizing Permuted Activations for Interpolation Repair](https://openreview.net/pdf?id=gU5sJ6ZggcX) |[REPAIR](https://github.com/KellerJordan/REPAIR)  | **ICLR** 2023 |
-| [Optimizing mode connectivity via neuron alignment](https://arxiv.org/pdf/2009.02439) |  | **NeurIPS** 2020 |
+| [Optimizing mode connectivity via neuron alignment](https://arxiv.org/pdf/2009.02439) | [Neu-Align](https://github.com/IBM/NeuronAlignment) | **NeurIPS** 2020 |
 | [Model fusion via optimal transport](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) | [otfusion](https://github.com/sidak/otfusion) | **NeurIPS** 2020 |
-| [Uniform convergence may be unable to explain generalization in deep learning](https://proceedings.neurips.cc/paper_files/paper/2019/file/05e97c207235d63ceb1db43c60db7bbb-Paper.pdf) |   | **NeurIPS** 2019 |
-| [Explaining landscape connectivity of low-cost solutions for multilayer nets](https://proceedings.neurips.cc/paper_files/paper/2019/file/46a4378f835dc8040c8057beb6a2da52-Paper.pdf)|   | **NeurIPS** 2019 |
-| [Essentially no barriers in neural network energy landscape](https://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf) |  | **ICML** 2018 |
-| [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) |  | **ArXiv** 24.08 |
+| [Uniform convergence may be unable to explain generalization in deep learning](https://proceedings.neurips.cc/paper_files/paper/2019/file/05e97c207235d63ceb1db43c60db7bbb-Paper.pdf) | - | **NeurIPS** 2019 |
+| [Explaining landscape connectivity of low-cost solutions for multilayer nets](https://proceedings.neurips.cc/paper_files/paper/2019/file/46a4378f835dc8040c8057beb6a2da52-Paper.pdf)| - | **NeurIPS** 2019 |
+| [Essentially no barriers in neural network energy landscape](https://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf) | [AutoNEB](https://github.com/fdraxler/PyTorch-AutoNEB) | **ICML** 2018 |
+| [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | [FedExp](https://github.com/Divyansh03/FedExP) | **ArXiv** 24.08 |
 
 ## 2. Parameter Merging
 ### 2.1 Merging Methods
@@ -332,7 +332,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering](https://arxiv.org/pdf/2004.03101) |          | **ArXiv** 20.04 |
 
 ### 7.2 Multi-Objective Optimization
-| **Paper Title**                                              | **Code** | **Pub & Date**  |
+| **Paper Title**                                              | **Code** | **Pub & Date** |
 | ------------------------------------------------------------ | :------: | :-------------: |
 | [You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging](https://arxiv.org/pdf/2408.12105) |      |  **ArXiv** 24.08  |
 | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |      |       **ArXiv** 24.06       |
