@@ -210,7 +210,6 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ### 3.1 Ensemble Methods
 #### Weighted Averaging
 #### Routing
-
 |**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) |                                                            |  **TMLR** 2024   |
@@ -230,9 +229,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [BatchEnsemble: An Alternative Approach to Efficient Ensemble and Lifelong Learning](https://arxiv.org/abs/2002.06715) |  |**ICLR** 2020|
 | [Diverse Ensemble Evolution: Curriculum Data-Model Marriage](https://proceedings.neurips.cc/paper/2018/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html) |  |**NeurIPS** 2018|
 #### Adapter
-
-| **Paper Title**                                              |                           **Code**                           |  **Pub & Date**  |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :--------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](https://arxiv.org/pdf/2408.10174) |      [SMILE](https://github.com/tanganke/fusion_bench)       | **ArXiv** 24.08  |
 | [Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts](https://arxiv.org/pdf/2406.12034) |                                                              | **ArXiv** 24.06  |
 | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |                                                              | **ArXiv** 24.06  |
@@ -245,8 +243,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 4. Decouple and Reuse
 ### 4.1 Reprogramming
-
-| **Paper Title**                                              |                           **Code**                           |  **Pub & Date**  |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Model Reprogramming: Resource-Efficient Cross-Domain Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/30267) |                                                              |  **AAAI** 2024   |
 | [Towards Efficient Task-Driven Model Reprogramming with Foundation Models](https://arxiv.org/pdf/2304.02263) |                                                              | **ArXiv** 23.06  |
@@ -256,9 +253,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](https://proceedings.mlr.press/v139/yang21j/yang21j.pdf) | [V2S](https://github.com/huckiyang/Voice2Series-Reprogramming) |  **ICML** 2021   |
 
 ### 4.2 Mask
-
-| **Paper Title**                                              |                          **Code**                           |      **Pub & Date**       |
-| ------------------------------------------------------------ | :---------------------------------------------------------: | :-----------------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [EMR-Merging: Tuning-Free High-Performance Model Merging](https://arxiv.org/pdf/2405.17461) | [EMR_Merging](https://github.com/harveyhuang18/EMR_Merging) | **NeurIPS** 2024 spolight |
 | [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) |     [THUNLP](https://github.com/THUNLP-MT/ModelCompose)     |       **ACL** 2024        |
 | [Localizing Task Information for Improved Model Merging and Compression](https://openreview.net/attachment?id=DWT9uiGjxT&name=pdf) |     [tall_masks](https://github.com/nik-dim/tall_masks)     |       **ICML** 2024       |
@@ -266,9 +262,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 5. Distillation
 ### 5.1 Transformer
-
-| **Paper Title**                                              | **Code** | **Pub  & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | [FuseChat](https://github.com/18907305772/FuseAI) | **ArXiv** 24.02 |
 | [Sam-clip: Merging vision foundation models towards semantic and spatial understanding](https://openaccess.thecvf.com/content/CVPR2024W/eLVM/html/Wang_SAM-CLIP_Merging_Vision_Foundation_Models_Towards_Semantic_and_Spatial_Understanding_CVPRW_2024_paper.html) |  | **CVPR** 2024 |
 | [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) | [FuseAI](https://github.com/18907305772/FuseAI) | **ICLR** 2024 |
@@ -277,8 +272,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Knowledge Amalgamation for Object Detection With Transformers](https://ieeexplore.ieee.org/document/10091778) |  | **TIP** 2023 |
 
 ### 5.2 CNN
-
-| **Paper Title**                                              | **Code** | **Pub & Date** |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Factorizing Knowledge in Neural Networks](https://arxiv.org/pdf/2207.03337.pdf) | [KnowledgeFactor](https://github.com/Adamdad/KnowledgeFactor) | **ECCV** 2022 |
 | [Spatial Ensemble: a Novel Model Smoothing Mechanism for Student-Teacher Framework](https://proceedings.neurips.cc/paper/2021/hash/8597a6cfa74defcbde3047c891d78f90-Abstract.html) | [Spatial_Ensemble](https://github.com/tengteng95/Spatial_Ensemble) | **NeurIPS** 2021 |
@@ -294,14 +288,13 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 
 ### 5.3 GNN
-
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Amalgamating Knowledge From Heterogeneous Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Amalgamating_Knowledge_From_Heterogeneous_Graph_Neural_Networks_CVPR_2021_paper.pdf) | [ycjing](https://github.com/ycjing/AmalgamateGNN.PyTorch) | **CVPR** 2021 |
 
 ## 6. Model Reassemble
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Advances in Robust Federated Learning: Heterogeneity Considerations](https://arxiv.org/pdf/2405.09839v1) |  | **ArXiv** 24.05 |
 | [Towards Personalized Federated Learning via Heterogeneous Model Reassembly](https://openreview.net/forum?id=zpVCITHknd&noteId=CnjuhgyoZi) | pFedHR | **NeurIPS** 2023 |
 | [Stitchable Neural Networks](https://arxiv.org/pdf/2302.06586) | [snnet](https://snnet.github.io/) | **CVPR** 2023 Highlight |
@@ -310,37 +303,35 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Deep Model Reassembly](https://arxiv.org/pdf/2210.17409.pdf) | [DeRy](https://github.com/Adamdad/DeRy) | **NeurIPS** 2022 |
 | [GAN Cocktail: Mixing GANs without Dataset Access](https://arxiv.org/pdf/2106.03847.pdf) | [GAN-cocktail](https://github.com/omriav/GAN-cocktail) | **ECCV** 2022 |
 ### 6.1 Model Evolution
-| **Paper Title**                                              | **Code** | **Pub   &   Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | - | **ArXiv** 24.07 |
 | [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187) | [EvoLLM](https://github.com/SakanaAI/evolutionary-model-merge) | **ArXiv** 24.03 |
 | [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/abs/2405.07813) | [Model_Evolver](https://github.com/duguodong7/model-evolution) | **ACL** 2024 |
 | [Population-based evolutionary gaming for unsupervised person re-identification](https://arxiv.org/abs/2306.05236) | - | **IJCV** 2023 |
 ## 7. Others
 ### 7.1 External Data Retrieval
-
-| **Paper Title**                                              | **Code** | **Pub & Date**  |
-| ------------------------------------------------------------ | :------: | :-------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Evaluating the External and Parametric Knowledge Fusion of Large Language Models](https://arxiv.org/pdf/2405.19010) |          | **ArXiv** 24.05 |
 | [Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering](https://arxiv.org/pdf/2004.03101) |          | **ArXiv** 20.04 |
 
 ### 7.2 Multi-Objective Optimization
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :------: | :-------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging](https://arxiv.org/pdf/2408.12105) |      |  **ArXiv** 24.08  |
 | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |      |       **ArXiv** 24.06       |
 | [MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation](https://arxiv.org/pdf/2406.07529) |      | **ArXiv** 24.06 |
 
-
 ### 7.3 Others
-
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Adaptive Discovering and Merging for Incremental Novel Class Discovery](https://arxiv.org/abs/2403.03382) |          |  **AAAI** 2024  |
 | [Knowledge Fusion and Semantic Knowledge Ranking for Open Domain Question Answering](https://arxiv.org/pdf/2004.03101) |          | **ArXiv** 20.04 |
+
 ### 7.4 Other Surveys
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://www.arxiv.org/pdf/2408.07057) |  | **ArXiv** 24.08 |
 | [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666) | [Yang](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | **ArXiv** 24.08 |
 | [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models](https://arxiv.org/pdf/2407.06089) |  | **ArXiv** 24.07 |
@@ -348,14 +339,12 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Learn From Model Beyond Fine-Tuning: A Survey](https://arxiv.org/pdf/2310.08184) | [LFM](https://github.com/ruthless-man/Awesome-Learn-from-Model) | **ArXiv** 23.10 |
 | [Deep Model Fusion: A Survey](https://arxiv.org/abs/2309.15698) |  | **ArXiv** 23.09 |
 | A curated paper list of Model Merging methods | [ycjing](https://github.com/ycjing/Awesome-Model-Merging) | GitHub |
+
 ----------
 
 ## Contributors
-
 Junlin Lee
-
 Qi Tang
-
 Runhua Jiang
 
 **Star History**
