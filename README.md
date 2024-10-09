@@ -343,9 +343,9 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ----------
 
 ## Contributors
-Junlin Lee
-Qi Tang
-Runhua Jiang
+Junlin Lee;
+Qi Tang;
+Runhua Jiang.
 
 **Star History**
 
