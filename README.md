@@ -70,7 +70,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Going beyond linear mode connectivity: The layerwise linear feature connectivity](https://papers.nips.cc/paper_files/paper/2023/file/bf3ee5a5422b0e2a88b0c9c6ed3b6144-Paper-Conference.pdf) | [LLFC](https://github.com/zzp1012/LLFC) |**NeurIPS** 2023 |
 | [The role of permutation invariance in linear mode connectivity of neural networks](https://openreview.net/pdf?id=dNigytemkL) | [PI](https://github.com/rahimentezari/PermutationInvariance) | **ICLR** 2022 |
 | [What can linear interpolation of neural network loss landscapes tell us?](https://arxiv.org/pdf/2106.16004) | - | **ICML** 2022 |
-| [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) | [LSS]( https://github.com/g-benton/ loss-surface-simplexes) | **ICML** 2021 |
+| [Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://proceedings.mlr.press/v139/benton21a/benton21a.pdf) | [LSS](https://github.com/g-benton/ loss-surface-simplexes) | **ICML** 2021 |
 | [Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes](https://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf) | - | **ICML** 2021 |
 | [Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)| - | **ICML** 2021 |
 | [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf) | - | **ICML** 2020 |
