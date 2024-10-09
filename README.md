@@ -228,13 +228,13 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ### 3.2 Ensemble Object
 #### Entire Model
-| **Paper Title**          |**Code**|**Pub & Date**               |
+| **Paper Title**          |**Code**|**Pub & Date**  |
 | --- | :---: | :---: |
-| [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/pdf/2401.02994) | [ChaiML](https://huggingface.co/ChaiML) | **ArXiv** 24.01 |
-| [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561) | [LLM-Blender](https://yuchenlin.xyz/LLM-Blender/) | **ACL** 2023 |
-| [Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf) | [GAME](https://github.com/Thinklab-SJTU/GAMF) | **ICML** 2022 |
-| [BatchEnsemble: An Alternative Approach to Efficient Ensemble and Lifelong Learning](https://arxiv.org/abs/2002.06715) |  | **ICLR** 2020 |
-| [Diverse Ensemble Evolution: Curriculum Data-Model Marriage](https://proceedings.neurips.cc/paper/2018/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html) |  | **NeurIPS** 2018 |
+| [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/pdf/2401.02994) | [ChaiML](https://huggingface.co/ChaiML) |**ArXiv** 24.01|
+| [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561) | [LLM-Blender](https://yuchenlin.xyz/LLM-Blender/) |**ACL** 2023|
+| [Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf) | [GAME](https://github.com/Thinklab-SJTU/GAMF) |**ICML** 2022|
+| [BatchEnsemble: An Alternative Approach to Efficient Ensemble and Lifelong Learning](https://arxiv.org/abs/2002.06715) |  |**ICLR** 2020|
+| [Diverse Ensemble Evolution: Curriculum Data-Model Marriage](https://proceedings.neurips.cc/paper/2018/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html) |  |**NeurIPS** 2018|
 #### Adapter
 
 | **Paper Title**                                              |                           **Code**                           |  **Pub & Date**  |
