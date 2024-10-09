@@ -154,10 +154,10 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 | **Paper Title**                                              |                             Code                             |      **Pub & Date**       |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | :-----------------------: |
-| [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |                                                              |     **ArXiv ** 24.07      |
+| [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |                                                              |      **ArXiv** 24.07      |
 | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) |                                                              |      **ArXiv** 24.06      |
 | [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](https://arxiv.org/pdf/2403.19390) |                                                              |      **ArXiv** 24.03      |
-| [Warm: On the benefits of weight averaged reward models](https://openreview.net/pdf?id=s7RDnNUJy6) |                                                              |       **ICML **2024       |
+| [Warm: On the benefits of weight averaged reward models](https://openreview.net/pdf?id=s7RDnNUJy6) |                                                              |       **ICML**2024        |
 | [ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning](https://aclanthology.org/2023.acl-long.46.pdf) |    [ColD-Fusion](https://huggingface.co/ibm/ColD-Fusion)     |       **ACL** 2023        |
 | [Model ratatouille: Recycling diverse models for out-of-distribution generalization](https://proceedings.mlr.press/v202/rame23a/rame23a.pdf) | [Ratatouille](https://github.com/facebookresearch/ModelRatatouille) |       **ICML** 2023       |
 | [Early Weight Averaging meets High Learning Rates for LLM Pre-training](https://arxiv.org/pdf/2306.03241) |  [code](https://github.com/sanyalsunny111/Early_Weight_Avg)  | **NeurIPS Workshop** 2023 |
