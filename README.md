@@ -58,7 +58,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 1. Connectivity and Alignment
 #### 1.1 Model Connectivity
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
 | [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
@@ -76,9 +76,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf) | - | **ICML** 2020 |
 | [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)| [DNN](https://github.com/timgaripov/dnn-mode-connectivity) | **NeurIPS** 2018 |
 
-
 #### 1.2 Weight Alignment
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | [EDWSA](https://github.com/AvivNavon/deep-align) | **ICML** 2024 |
 | [Harmony in diversity: Merging neural networks with canonical correlation analysis](https://openreview.net/pdf?id=XTr8vwAr2D) | [CCA Merge](https://github.com/shoroi/align-n-merge) | **ICML** 2024 |
@@ -98,7 +97,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ## 2. Parameter Merging
 ### 2.1 Merging Methods
 #### Optimization based
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging<br / Upcycled Mixture-of-Experts](https://aclanthology.org/2024.acl-long.699.pdf) |            [XFT](https://github.com/ise-uiuc/xft)            |     **ACL** 2024     |
 | [Model Merging by Uncertainty-Based Gradient Matching](https://openreview.net/pdf?id=D7KJmfEDQP) |   [code](https://github.com/UKPLab/iclr2024-model-merging)   |    **ICLR** 2024     |
@@ -116,9 +115,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Model fusion via optimal transport](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) |        [Otfusion](https://github.com/sidak/otfusion)         |   **NeurIPS** 2020   |
 
 #### Task Vector based
-
-| **Paper Title**                                              |                             Code                             |  **Pub & Date**  |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :--------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Chat Vector: A Simple Approach to Equip LLMs With New Language Chat Capabilities](https://arxiv.org/pdf/2310.04799) |                                                              |   **ACL** 2024   |
 | [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/pdf?id=nZP6NgD3QY) |    [AdaMerging](https://github.com/EnnengYang/AdaMerging)    |  **ICLR** 2024   |
 | [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) |         [DARE](https://github.com/yule-BUAA/MergeLM)         |  **ICML** 2024   |
@@ -150,9 +148,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ### 2.2 During or After Training
 #### During Training
-
-| **Paper Title**                                              |                             Code                             |   **Pub & Date**   |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------: |
+|**Paper Title**|**Code**|**Publication & Date**|
+| --- | :---: | :---: |
 | [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |                                                              |  **ArXiv** 24.07   |
 | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) |                                                              |  **ArXiv** 24.06   |
 | [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](https://arxiv.org/pdf/2403.19390) |                                                              |  **ArXiv** 24.03   |
@@ -167,8 +164,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Averaging weights leads to wider optima and better generalization](https://auai.org/uai2018/proceedings/papers/313.pdf) |           [SWA](https://github.com/timgaripov/swa)           |    **UAI** 2018    |
 
 #### After Training
-
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better](https://arxiv.org/pdf/2404.02241) |    [LCSC](https://github.com/imagination-research/LCSC)     | **ArXiv** 24.04  |
 | [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027) |                                                             |  **EACL** 2023   |
@@ -177,8 +173,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ### 2.3 For LLMs and MLLMs
 #### For LLMs
-
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities](https://arxiv.org/pdf/2409.03444) |      [code](https://github.com/lamm-mit/LLM-finetuning)      |    **ArXiv** 24.09    |
 | [FuseChat: Knowledge Fusion of Chat Models](https://arxiv.org/pdf/2408.07990) |        [FuseChat](https://github.com/fanqiwan/FuseAI)        |    **ArXiv**24.08     |
@@ -201,8 +196,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Rewarded soups: towards pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/pdf/2306.04488) | [Rewarded-Soups](https://github.com/alexrame/rewardedsoups)  |   **NeurIPS** 2023    |
 
 #### For Multimodal Language Models
-
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) | [ModelCompose](https://github.com/THUNLP-MT/ModelCompose) |   **ACL** 2024    |
 | [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) |  [code](https://github.com/kyegomez/MultiModalCrossAttn)  |   **ICLR** 2024   |
@@ -217,7 +211,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### Weighted Averaging
 #### Routing
 
-| **Paper Title**                                              | **Code** |**Pub & Date**    |
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) |                                                            |  **TMLR** 2024   |
 | [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066) | [DeepSeekMoE](https://github.com/deepseek-ai/DeepSeek-MoE) | **ArXiv** 24.01  |
@@ -228,7 +222,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ### 3.2 Ensemble Object
 #### Entire Model
-|**Paper Title**|**Code**|**Publication-and-Date**|
+|**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/pdf/2401.02994) | [ChaiML](https://huggingface.co/ChaiML) |**ArXiv** 24.01|
 | [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561) | [LLM-Blender](https://yuchenlin.xyz/LLM-Blender/) |**ACL** 2023|
