@@ -60,7 +60,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### 1.1 Model Connectivity
 | **Paper Title** | **Code** | **Pub     &     Date** |
 | --------------- | :----: | :----: |
-| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink1](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
+| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
 | [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
 | [Proving linear mode connectivity of neural networks via optimal transport](https://arxiv.org/pdf/2310.19103) | [OT_LMC](https://github.com/damienferbach/OT_LMC/tree/main) | **AISTATS** 2024 |
 | [Re-basin via implicit Sinkhorn differentiation](https://openaccess.thecvf.com/content/CVPR2023/papers/Pena_Re-Basin_via_Implicit_Sinkhorn_Differentiation_CVPR_2023_paper.pdf) | [Re-Basin]( https://github.com/fagp/sinkhorn-rebasin) | **CVPR** 2023 |
@@ -127,7 +127,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  [WEMoE](https://github.com/tanganke/weight-ensembling_MoE)  |  **ICML** 2024   |
 | [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859) |      [Phatgoose](https://github.com/r-three/phatgoose)       |  **ICML** 2024   |
 | [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) |                                                              |  **ICML** 2024   |
-| [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1) |   [Pcb-merging](https://github.com/duguodong7/pcb-merging)   | **NeurIPS** 2024 |
+| [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1) |   [PCB-Merging](https://github.com/duguodong7/pcb-merging)   | **NeurIPS** 2024 |
 | [EMR-Merging: Tuning-Free High-Performance Model Merging](https://arxiv.org/pdf/2405.17461) | [EMR_Merging](https://github.com/harveyhuang18/EMR_Merging)  | **NeurIPS** 2024 |
 | [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656) | [Localize-and-Stitch](https://github.com/yifei-he/Localize-and-Stitch) | **ArXiv** 24.08  |
 | [Activated Parameter Locating via Causal Intervention for Model Merging](https://arxiv.org/pdf/2408.09485) |                                                              | **ArXiv** 24.08  |
@@ -143,7 +143,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | [Task_vectors](https://github.com/mlfoundations/task_vectors) |  **ICLR** 2023   |
 | [Task-Specific Skill Localization in Fine-tuned Language Model](https://arxiv.org/pdf/2302.06600) | [Grafting](https://github.com/abhishekpanigrahi1996/Skill-Localization-by-grafting) |  **ICML** 2023   |
 | [Composing parameter-efficient modules with arithmetic operation](https://arxiv.org/pdf/2306.14870) | [PEM_composition](https://github.com/hkust-nlp/PEM_composition) | **NeurIPS** 2023 |
-| [TIES-MERGING: Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | [Ties-merging](https://github.com/prateeky2806/ties-merging) | **NeurIPS** 2023 |
+| [TIES-MERGING: Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | [TIES-Merging](https://github.com/prateeky2806/ties-merging) | **NeurIPS** 2023 |
 | [Model breadcrumbs: Scaling multi-task model merging with sparse masks](https://arxiv.org/pdf/2312.06795) |    [Breadcrumbs](https://github.com/rezazzr/breadcrumbs)     | **ArXiv** 23.12  |
 | [Concrete Subspace Learning based Interference Elimination for Multi-task Model Fusion](https://arxiv.org/pdf/2312.06173) |   [Subspace](https://github.com/tanganke/subspace_fusion)    | **ArXiv** 23.12  |
 | [Effective and Parameter Efficient Reusing Fine-Tuned Models](https://openreview.net/pdf?id=13D1zn0mpd) |                                                              | **ArXiv** 23.10  |
@@ -152,20 +152,20 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 ### 2.2 During or After Training
 #### During Training
 
-| **Paper Title**                                              |                             Code                             |      **Pub & Date**       |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :-----------------------: |
-| [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |                                                              |      **ArXiv** 24.07      |
-| [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) |                                                              |      **ArXiv** 24.06      |
-| [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](https://arxiv.org/pdf/2403.19390) |                                                              |      **ArXiv** 24.03      |
-| [Warm: On the benefits of weight averaged reward models](https://openreview.net/pdf?id=s7RDnNUJy6) |                                                              |       **ICML**2024        |
-| [ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning](https://aclanthology.org/2023.acl-long.46.pdf) |    [ColD-Fusion](https://huggingface.co/ibm/ColD-Fusion)     |       **ACL** 2023        |
-| [Model ratatouille: Recycling diverse models for out-of-distribution generalization](https://proceedings.mlr.press/v202/rame23a/rame23a.pdf) | [Ratatouille](https://github.com/facebookresearch/ModelRatatouille) |       **ICML** 2023       |
-| [Early Weight Averaging meets High Learning Rates for LLM Pre-training](https://arxiv.org/pdf/2306.03241) |  [code](https://github.com/sanyalsunny111/Early_Weight_Avg)  | **NeurIPS Workshop** 2023 |
-| [Stop wasting my time! saving days of imagenet and bert training with latest weight averaging](https://arxiv.org/pdf/2209.14981) |         [LAWA](https://github.com/JeanKaddour/LAWA)          | **NeurIPS Workshop** 2022 |
-| [Stochastic weight averaging revisited](https://arxiv.org/abs/2201.00519) |          [PSWA](https://github.com/ZJLAB-AMMI/PSWA)          |      **ArXiv** 22.09      |
-| [Fusing finetuned models for better pretraining](https://arxiv.org/pdf/2204.03044) |                                                              |      **ArXiv** 22.04      |
-| [Lookahead optimizer: k steps forward, 1 step back](https://proceedings.neurips.cc/paper/2019/hash/90fd4f88f588ae64038134f1eeaa023f-Abstract.html) |   [Lookahead](https://github.com/michaelrzhang/lookahead)    |     **NeurIPS** 2019      |
-| [Averaging weights leads to wider optima and better generalization](https://auai.org/uai2018/proceedings/papers/313.pdf) |           [SWA](https://github.com/timgaripov/swa)           |       **UAI** 2018        |
+| **Paper Title**                                              |                             Code                             |   **Pub & Date**   |
+| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------: |
+| [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |                                                              |  **ArXiv** 24.07   |
+| [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) |                                                              |  **ArXiv** 24.06   |
+| [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](https://arxiv.org/pdf/2403.19390) |                                                              |  **ArXiv** 24.03   |
+| [Warm: On the benefits of weight averaged reward models](https://openreview.net/pdf?id=s7RDnNUJy6) |                                                              |    **ICML**2024    |
+| [ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning](https://aclanthology.org/2023.acl-long.46.pdf) |    [ColD-Fusion](https://huggingface.co/ibm/ColD-Fusion)     |    **ACL** 2023    |
+| [Model ratatouille: Recycling diverse models for out-of-distribution generalization](https://proceedings.mlr.press/v202/rame23a/rame23a.pdf) | [Ratatouille](https://github.com/facebookresearch/ModelRatatouille) |   **ICML** 2023    |
+| [Early Weight Averaging meets High Learning Rates for LLM Pre-training](https://arxiv.org/pdf/2306.03241) |  [code](https://github.com/sanyalsunny111/Early_Weight_Avg)  | **NeurIPS_W** 2023 |
+| [Stop wasting my time! saving days of imagenet and bert training with latest weight averaging](https://arxiv.org/pdf/2209.14981) |         [LAWA](https://github.com/JeanKaddour/LAWA)          | **NeurIPS_W** 2022 |
+| [Stochastic weight averaging revisited](https://arxiv.org/abs/2201.00519) |          [PSWA](https://github.com/ZJLAB-AMMI/PSWA)          |  **ArXiv** 22.09   |
+| [Fusing finetuned models for better pretraining](https://arxiv.org/pdf/2204.03044) |                                                              |  **ArXiv** 22.04   |
+| [Lookahead optimizer: k steps forward, 1 step back](https://proceedings.neurips.cc/paper/2019/hash/90fd4f88f588ae64038134f1eeaa023f-Abstract.html) |   [Lookahead](https://github.com/michaelrzhang/lookahead)    |  **NeurIPS** 2019  |
+| [Averaging weights leads to wider optima and better generalization](https://auai.org/uai2018/proceedings/papers/313.pdf) |           [SWA](https://github.com/timgaripov/swa)           |    **UAI** 2018    |
 
 #### After Training
 
@@ -182,21 +182,21 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | **Paper Title**                                              |                             Code                             |    **Pub & Date**     |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | :-------------------: |
 | [Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities](https://arxiv.org/pdf/2409.03444) |      [code](https://github.com/lamm-mit/LLM-finetuning)      |    **ArXiv** 24.09    |
-| [FuseChat: Knowledge Fusion of Chat Models](https://arxiv.org/pdf/2408.07990) |        [FuseChat](https://github.com/fanqiwan/FuseAI)        |    **ArXiv **24.08    |
+| [FuseChat: Knowledge Fusion of Chat Models](https://arxiv.org/pdf/2408.07990) |        [FuseChat](https://github.com/fanqiwan/FuseAI)        |    **ArXiv**24.08     |
 | [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](https://arxiv.org/pdf/2408.03092) |      [MergeLLM](https://github.com/yule-BUAA/MergeLLM)       |    **ArXiv** 24.08    |
 | [DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling](https://arxiv.org/pdf/2406.11617) |        [DELLA](https://github.com/declare-lab/della)         |    **ArXiv** 24.06    |
-| [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/pdf/2406.13551) | [code](https://github.com/VectorInstitute/Bias_in_LMs-Bias_mitigation) |    **ArXiv **24.06    |
+| [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/pdf/2406.13551) | [code](https://github.com/VectorInstitute/Bias_in_LMs-Bias_mitigation) |    **ArXiv**24.06     |
 | [Weak-to-strong extrapolation expedites alignment](https://arxiv.org/pdf/2404.16792) |   [Expo](https://github.com/chujiezheng/LLM-Extrapolation)   |    **ArXiv** 24.04    |
-| [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1) |   [PCB-merging](https://github.com/duguodong7/pcb-merging)   |   **NeurIPS** 2024    |
+| [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1) |   [PCB-Merging](https://github.com/duguodong7/pcb-merging)   |   **NeurIPS** 2024    |
 | [Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic](https://arxiv.org/pdf/2402.11746) |        [Resta](https://github.com/declare-lab/resta)         |    **ArXiv** 24.02    |
 | [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/pdf/2402.10058) |          [SKU](https://github.com/franciscoliu/SKU)          |     **ACL** 2024      |
 | [Lm-cocktail: Resilient tuning of language models via model merging](https://aclanthology.org/2024.findings-acl.145.pdf) |                                                              | **ACL Findings** 2024 |
 | [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) |         [DARE](https://github.com/yule-BUAA/MergeLM)         |     **ICML** 2024     |
 | [Controlled Text Generation via Language Model Arithmetic](https://openreview.net/pdf?id=SLw9fp4yI6) | [code](https://github.com/eth-sri/language-model-arithmetic) |     **ICML** 2024     |
 | [Strong Copyright Protection for Language Models via Adaptive Model Fusion](https://openreview.net/pdf?id=vAG7GrZZUF) |                                                              |     **ICML** 2024     |
-| [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) |                                                              |     **ICML **2024     |
+| [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) |                                                              |     **ICML**2024      |
 | [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) |        [FuseLLM](https://github.com/fanqiwan/FuseAI)         |     **ICLR** 2024     |
-| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090) |       [Ext-Sub](https://github.com/HITsz-TMG/Ext-Sub)        |     **AAAI **2024     |
+| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090) |       [Ext-Sub](https://github.com/HITsz-TMG/Ext-Sub)        |     **AAAI**2024      |
 | [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/pdf/2307.13269) |        [lorahub](https://github.com/sail-sg/lorahub)         |     **COLM** 2024     |
 | [Composing parameter-efficient modules with arithmetic operation](https://arxiv.org/pdf/2306.14870) | [PEM_Composition](https://github.com/hkust-nlp/PEM_composition) |   **NeurIPS** 2023    |
 | [Rewarded soups: towards pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/pdf/2306.04488) | [Rewarded-Soups](https://github.com/alexrame/rewardedsoups)  |   **NeurIPS** 2023    |
@@ -218,12 +218,12 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### Weighted Averaging
 #### Routing
 
-| **Paper Title**                                              |                          **Code**                          | **Pub & Date**  |
-| ------------------------------------------------------------ | :--------------------------------------------------------: | :-------------: |
-| [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) |                                                            |  **TMLR** 2024  |
-| [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066) | [DeepSeekMoE](https://github.com/deepseek-ai/DeepSeek-MoE) | **ArXiv** 24.01 |
-| [Multiple Expert Brainstorming for Domain Adaptive Person Re-identification](https://arxiv.org/pdf/2007.01546) |     [MEB-Net](https://github.com/YunpengZhai/MEB-Net)      |  **ECCV** 2020  |
-| [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) |                                                            | **ArXiv** 23.12 |
+| **Paper Title**                                              |                          **Code**                          | **Pub  &  Date** |
+| ------------------------------------------------------------ | :--------------------------------------------------------: | :--------------: |
+| [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) |                                                            |  **TMLR** 2024   |
+| [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066) | [DeepSeekMoE](https://github.com/deepseek-ai/DeepSeek-MoE) | **ArXiv** 24.01  |
+| [Multiple Expert Brainstorming for Domain Adaptive Person Re-identification](https://arxiv.org/pdf/2007.01546) |     [MEB-Net](https://github.com/YunpengZhai/MEB-Net)      |  **ECCV** 2020   |
+| [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) |                                                            | **ArXiv** 23.12  |
 
 #### Voting
 
@@ -317,7 +317,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Deep Model Reassembly](https://arxiv.org/pdf/2210.17409.pdf) | [DeRy](https://github.com/Adamdad/DeRy) | **NeurIPS** 2022 |
 | [GAN Cocktail: Mixing GANs without Dataset Access](https://arxiv.org/pdf/2106.03847.pdf) | [GAN-cocktail](https://github.com/omriav/GAN-cocktail) | **ECCV** 2022 |
 ### 6.1 Model Evolution
-| **Paper Title**                                              | **Code** | **Pub & Date** |
+| **Paper Title**                                              | **Code** | **Pub   &   Date** |
 | ------------------------------------------------------------ | :----: | :------------: |
 | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | - | **ArXiv** 24.07 |
 | [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187) | [EvoLLM](https://github.com/SakanaAI/evolutionary-model-merge) | **ArXiv** 24.03 |
