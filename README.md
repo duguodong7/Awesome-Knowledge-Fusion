@@ -60,7 +60,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 #### 1.1 Model Connectivity
 | **Paper Title** | **Code** | **Pub & Date** |
 | --------------- | :----: | :----: |
-| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
+| [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink1](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
 | [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
 | [Proving linear mode connectivity of neural networks via optimal transport](https://arxiv.org/pdf/2310.19103) | [OT_LMC](https://github.com/damienferbach/OT_LMC/tree/main) | **AISTATS** 2024 |
 | [Re-basin via implicit Sinkhorn differentiation](https://openaccess.thecvf.com/content/CVPR2023/papers/Pena_Re-Basin_via_Implicit_Sinkhorn_Differentiation_CVPR_2023_paper.pdf) | [Re-Basin]( https://github.com/fagp/sinkhorn-rebasin) | **CVPR** 2023 |
