@@ -14,8 +14,9 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 > As the comprehensive capabilities of foundational large models rapidly improve, similar general abilities have emerged across different models, making capability transfer and fusion between them more feasible. Knowledge fusion aims to integrate existing LLMs of diverse architectures and capabilities into a more powerful model through efficient methods such as knowledge distillation, model merging, mixture of experts, and PEFT, thereby reducing the need for costly LLM development and adaptation. We provide a comprehensive overview of model merging methods and theories, covering their applications across various fields and scenarios, including LLMs, MLLMs, image generation, model compression, continual learning, and more. Finally, we highlight the challenges of knowledge fusion and explore future research directions.
 
 <center>
-<img src="./imgs/knowledge_fusion.png" alt="knowledge_fusion" width="800"/>
+<img src="./imgs/survey.png" alt="survey" width="800"/>
 </center>
+
 
 ******
 
@@ -24,6 +25,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
   * [1. Connectivity and Alignment](#1-connectivity-and-alignment)
     + [1.1 Model Connectivity](#11-model-connectivity)
     + [1.2 Weight Alignment](#12-weight-alignment)
+    
   * [2. Parameter Merging](#2-parameter-merging)
     + [2.1 Merging Methods](#21-merging-methods)
       - [Gradient based](#gradient-based)
@@ -34,6 +36,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
     + [2.3 For LLMs and MLLMs](#23-for-llms-and-mllms)
       - [For LLMs](#for-llms)
       - [For Multimodal Language Models](#for-multimodal-language-models)
+    
   * [3. Model Ensemble](#3-model-ensemble)
     + [3.1 Ensemble Methods](#31-ensemble-methods)
       - [Weighted Averaging](#weighted-averaging)
@@ -41,15 +44,20 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
     + [3.2 Ensemble Object](#32-ensemble-object)
       - [Entire Model](#entire-model)
       - [Adapter](#Adapter)
-  * [4. Decouple and Reuse](#4-decouple-and-reuse)
+    
+  * [4. Decouple](#4-decouple)
     + [4.1 Reprogramming](#41-reprogramming)
     + [4.2 Mask](#42-mask)
+    
   * [5. Distillation](#5-distillation)
     + [5.1 Transformer](#51-transformer)
     + [5.2 CNN](#52-cnn)
     + [5.3 GNN](#53-gnn)
-  * [6. Model Reassemble](#6-model-reassemble)
-    + [6.1 Model Evolution](#61-model-evolution)
+
+  * [6. Model Reuse](#6-model-reuse)
+    + [6.1 Model Reassembly](#61-model-reassembly)
+    + [6.2 Model Evolution](#62-model-evolution)
+    
   * [7. Others](#7-others)
     + [7.1 External Data Retrieval](#71-external-data-retrieval)
     + [7.2 Multi-Objective Optimization](#72-multi-objective-optimization)
@@ -217,8 +225,6 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Multiple Expert Brainstorming for Domain Adaptive Person Re-identification](https://arxiv.org/pdf/2007.01546) |     [MEB-Net](https://github.com/YunpengZhai/MEB-Net)      |  **ECCV** 2020   |
 | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) |                                                            | **ArXiv** 23.12  |
 
-#### Voting
-
 ### 3.2 Ensemble Object
 #### Entire Model
 |**Paper Title**|**Code**|**Publication & Date**|
@@ -241,7 +247,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy](https://arxiv.org/pdf/2310.01334) |                                                              |  **ICLR** 2024   |
 | [Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories](https://arxiv.org/abs/2306.05406) | [code](https://github.com/xu1868/Mixture-of-Domain-Adapters) |   **ACL** 2023   |
 
-## 4. Decouple and Reuse
+## 4. Decouple
 ### 4.1 Reprogramming
 |**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
@@ -285,14 +291,12 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More](https://arxiv.org/pdf/1904.10167.pdf) | [KAmalEngine](https://github.com/zju-vipa/KamalEngine) | **CVPR** 2019 |
 | [Amalgamating Knowledge towards Comprehensive Classification](https://arxiv.org/pdf/1811.02796.pdf) |          | **AAAI** 2019 |
 
-
-
 ### 5.3 GNN
 |**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Amalgamating Knowledge From Heterogeneous Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Amalgamating_Knowledge_From_Heterogeneous_Graph_Neural_Networks_CVPR_2021_paper.pdf) | [ycjing](https://github.com/ycjing/AmalgamateGNN.PyTorch) | **CVPR** 2021 |
-
-## 6. Model Reassemble
+## 6. Model Reuse
+### 6.1 Model Reassembly
 |**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [Advances in Robust Federated Learning: Heterogeneity Considerations](https://arxiv.org/pdf/2405.09839v1) |  | **ArXiv** 24.05 |
