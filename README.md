@@ -58,8 +58,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 1. Connectivity and Alignment
 #### 1.1 Model Connectivity
-| **Paper Title** | **Code** | **Pub     &     Date** |
-| --------------- | :----: | :----: |
+| **Paper Title**                                              |                             Code                             |    **Pub & Date**    |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :------------------: |
 | [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
 | [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
 | [Proving linear mode connectivity of neural networks via optimal transport](https://arxiv.org/pdf/2310.19103) | [OT_LMC](https://github.com/damienferbach/OT_LMC/tree/main) | **AISTATS** 2024 |
@@ -78,8 +78,8 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 
 #### 1.2 Weight Alignment
-| **Paper Title**                                              | **Code** | **Pub & Date** |
-| ------------------------------------------------------------ | :----: | :------------: |
+| **Paper Title**                                              |                             Code                             |    **Pub & Date**    |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :------------------: |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | [EDWSA](https://github.com/AvivNavon/deep-align) | **ICML** 2024 |
 | [Harmony in diversity: Merging neural networks with canonical correlation analysis](https://openreview.net/pdf?id=XTr8vwAr2D) | [CCA Merge](https://github.com/shoroi/align-n-merge) | **ICML** 2024 |
 | [Transformer fusion with optimal transport](https://arxiv.org/pdf/2310.05719) | [TF](https://github.com/graldij/transformer-fusion) | **ICLR** 2024 |
@@ -185,7 +185,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [FuseChat: Knowledge Fusion of Chat Models](https://arxiv.org/pdf/2408.07990) |        [FuseChat](https://github.com/fanqiwan/FuseAI)        |    **ArXiv**24.08     |
 | [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](https://arxiv.org/pdf/2408.03092) |      [MergeLLM](https://github.com/yule-BUAA/MergeLLM)       |    **ArXiv** 24.08    |
 | [DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling](https://arxiv.org/pdf/2406.11617) |        [DELLA](https://github.com/declare-lab/della)         |    **ArXiv** 24.06    |
-| [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/pdf/2406.13551) | [code](https://github.com/VectorInstitute/Bias_in_LMs-Bias_mitigation) |    **ArXiv**24.06     |
+| [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/pdf/2406.13551) | [code](https://github.com/VectorInstitute/Bias_in_LMs-Bias_mitigation) |    **ArXiv** 24.06    |
 | [Weak-to-strong extrapolation expedites alignment](https://arxiv.org/pdf/2404.16792) |   [Expo](https://github.com/chujiezheng/LLM-Extrapolation)   |    **ArXiv** 24.04    |
 | [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1) |   [PCB-Merging](https://github.com/duguodong7/pcb-merging)   |   **NeurIPS** 2024    |
 | [Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic](https://arxiv.org/pdf/2402.11746) |        [Resta](https://github.com/declare-lab/resta)         |    **ArXiv** 24.02    |
@@ -196,21 +196,21 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 | [Strong Copyright Protection for Language Models via Adaptive Model Fusion](https://openreview.net/pdf?id=vAG7GrZZUF) |                                                              |     **ICML** 2024     |
 | [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) |                                                              |     **ICML**2024      |
 | [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) |        [FuseLLM](https://github.com/fanqiwan/FuseAI)         |     **ICLR** 2024     |
-| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090) |       [Ext-Sub](https://github.com/HITsz-TMG/Ext-Sub)        |     **AAAI**2024      |
+| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090) |       [Ext-Sub](https://github.com/HITsz-TMG/Ext-Sub)        |     **AAAI** 2024     |
 | [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/pdf/2307.13269) |        [lorahub](https://github.com/sail-sg/lorahub)         |     **COLM** 2024     |
 | [Composing parameter-efficient modules with arithmetic operation](https://arxiv.org/pdf/2306.14870) | [PEM_Composition](https://github.com/hkust-nlp/PEM_composition) |   **NeurIPS** 2023    |
 | [Rewarded soups: towards pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/pdf/2306.04488) | [Rewarded-Soups](https://github.com/alexrame/rewardedsoups)  |   **NeurIPS** 2023    |
 
 #### For Multimodal Language Models
 
-| **Paper Title**                                              |                           Code                            |      **Pub & Date**      |
-| ------------------------------------------------------------ | :-------------------------------------------------------: | :----------------------: |
-| [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) | [ModelCompose](https://github.com/THUNLP-MT/ModelCompose) |       **ACL** 2024       |
-| [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) |  [code](https://github.com/kyegomez/MultiModalCrossAttn)  |      **ICLR** 2024       |
-| [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |                                                           | **ICASSP Workshop** 2024 |
-| [An Empirical Study of Multimodal Model Merging](https://aclanthology.org/2023.findings-emnlp.105.pdf) |    [Vl-merging](https://github.com/ylsung/vl-merging)     |      **EMNLP** 2023      |
-| [[π-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation](https://arxiv.org/pdf/2304.14381)](https://arxiv.org/pdf/2404.02241) |    [π-Tuning](https://github.com/TencentARC/pi-Tuning)    |      **ICML** 2023       |
-| [UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184) |        [UnIVAL](https://github.com/mshukor/UnIVAL)        |      **TMLR** 2023       |
+| **Paper Title**                                              |                           Code                            |  **Pub & Date**   |
+| ------------------------------------------------------------ | :-------------------------------------------------------: | :---------------: |
+| [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) | [ModelCompose](https://github.com/THUNLP-MT/ModelCompose) |   **ACL** 2024    |
+| [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) |  [code](https://github.com/kyegomez/MultiModalCrossAttn)  |   **ICLR** 2024   |
+| [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |                                                           | **ICASSP_W** 2024 |
+| [An Empirical Study of Multimodal Model Merging](https://aclanthology.org/2023.findings-emnlp.105.pdf) |    [Vl-merging](https://github.com/ylsung/vl-merging)     |  **EMNLP** 2023   |
+| [[π-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation](https://arxiv.org/pdf/2304.14381)](https://arxiv.org/pdf/2404.02241) |    [π-Tuning](https://github.com/TencentARC/pi-Tuning)    |   **ICML** 2023   |
+| [UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184) |        [UnIVAL](https://github.com/mshukor/UnIVAL)        |   **TMLR** 2023   |
 
 ## 3. Model Ensemble
 
