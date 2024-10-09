@@ -58,7 +58,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ## 1. Connectivity and Alignment
 #### 1.1 Model Connectivity
-| **Paper Title** | **Code** | **Pub & Date** |
+| **Paper Title** | **Code** | **Pub     &     Date** |
 | --------------- | :----: | :----: |
 | [Rethink Model Re-Basin and the Linear Mode Connectivity](https://arxiv.org/pdf/2402.05966) | [rethink1](https://github.com/XingyuQu/rethink-re-basin) | **ArXiv** 24.02 |
 | [Layerwise linear mode connectivity](https://openreview.net/pdf?id=LfmZh91tDI) | [Layerwise](https://github.com/link-er/layer-wise-lmc) | **ICLR** 2024 |
