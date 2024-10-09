@@ -228,7 +228,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Mo
 
 ### 3.2 Ensemble Object
 #### Entire Model
-| **Paper Title**          |**Code**|**NeurIPS** 2018|
+| **Paper Title**|**Code**|**NeurIPS** 2018|
 | --- | :---: | :---: |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/pdf/2401.02994) | [ChaiML](https://huggingface.co/ChaiML) |**ArXiv** 24.01|
 | [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561) | [LLM-Blender](https://yuchenlin.xyz/LLM-Blender/) |**ACL** 2023|
