@@ -306,7 +306,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: A Comprehensive Surve
 | [Deep Incubation: Training Large Models by Divide-and-Conquering](https://arxiv.org/pdf/2212.04129) | [Deep-Incubation](http://github.com/LeapLabTHU/Deep-Incubation) | **ArXiv** 22.12 |
 | [Deep Model Reassembly](https://arxiv.org/pdf/2210.17409.pdf) | [DeRy](https://github.com/Adamdad/DeRy) | **NeurIPS** 2022 |
 | [GAN Cocktail: Mixing GANs without Dataset Access](https://arxiv.org/pdf/2106.03847.pdf) | [GAN-cocktail](https://github.com/omriav/GAN-cocktail) | **ECCV** 2022 |
-### 6.1 Model Evolution
+### 6.2 Model Evolution
 |**Paper Title**|**Code**|**Publication & Date**|
 | --- | :---: | :---: |
 | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | - | **ArXiv** 24.07 |
