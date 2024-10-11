@@ -8,7 +8,7 @@ Email: duguodong7@gmail.com</font>
 
 ---
 
-A comprehensive list of papers about **'[Knowledge Fusion: The Integration of Model Capabilities.]'**.
+A comprehensive list of papers about **'[Knowledge Fusion: A Comprehensive Survey.]'**.
 
 ## Abstract
 > As the comprehensive capabilities of foundational large models rapidly improve, similar general abilities have emerged across different models, making capability transfer and fusion between them more feasible. Knowledge fusion aims to integrate existing LLMs of diverse architectures and capabilities into a more powerful model through efficient methods such as knowledge distillation, model merging, mixture of experts, and PEFT, thereby reducing the need for costly LLM development and adaptation. We provide a comprehensive overview of model merging methods and theories, covering their applications across various fields and scenarios, including LLMs, MLLMs, image generation, model compression, continual learning, and more. Finally, we highlight the challenges of knowledge fusion and explore future research directions.
