@@ -61,7 +61,7 @@ A comprehensive list of papers about **'[Knowledge Fusion: A Comprehensive Surve
   * [7. Others](#7-others)
     + [7.1 External Data Retrieval](#71-external-data-retrieval)
     + [7.2 Multi-Objective Optimization](#72-multi-objective-optimization)
-    + [7.4 Other Surveys](#74-other-survyes)
+    + [7.4 Other Surveys](#74-other-surveys)
 ----------
 
 ## 1. Connectivity and Alignment
